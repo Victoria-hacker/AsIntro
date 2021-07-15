@@ -1,0 +1,35 @@
+
+.background{
+    
+    background-color: rgb(71, 71, 71);
+    
+    
+}
+.title{
+    font-family:Snell Roundhand, cursive;
+    color: #FF4040;
+    text-align: center;
+}
+
+.alinhar{
+    position: relative;
+    display: flex;
+    margin-top: 10%;
+}
+.card{
+    margin: 35px;
+}
+
+.btn{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}
+
+.borda{
+    text-align: center;
+   
+    color:rgb(243, 0, 0);
+   
+    
+}
